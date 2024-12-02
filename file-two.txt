@@ -1,1 +1,3 @@
-Still having problems wil creating a /.git folder
+Still having problems with creating a /.git folder
+No.... file is there but hidden.
+Use ls -a
